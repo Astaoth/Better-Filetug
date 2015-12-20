@@ -1,3 +1,8 @@
+Better Filetug
+==============
+
+This is a fork of the SailfishOS application Filetug which aims to improve it. The original project can be found here : https://github.com/Matoking/Filetug .
+
 Filetug
 =======
 
